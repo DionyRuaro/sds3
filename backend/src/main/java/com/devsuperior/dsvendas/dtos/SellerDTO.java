@@ -1,6 +1,5 @@
 package com.devsuperior.dsvendas.dtos;
 
-import com.devsuperior.dsvendas.entities.Sale;
 import com.devsuperior.dsvendas.entities.Seller;
 
 import java.io.Serializable;
