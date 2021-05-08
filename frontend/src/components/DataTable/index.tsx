@@ -3,7 +3,7 @@ import Pagination from "components/Pagination";
 import { useEffect, useState } from "react";
 import { SalePage } from "types/sale";
 import { isTemplateExpression } from "typescript";
-import { formatLocalDate } from "utils/fomat";
+import { formatLocalDate } from "utils/format";
 import { BASE_URL } from "utils/request";
 
 const DataTable = () => {

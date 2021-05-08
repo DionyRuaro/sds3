@@ -3,7 +3,7 @@ import { format } from 'node:path';
 import { useEffect, useState } from 'react';
 import Chart from 'react-apexcharts';
 import { SalesSuccess } from 'types/sale';
-import { round } from 'utils/fomat';
+import { round } from 'utils/format';
 import { BASE_URL } from 'utils/request';
 
 
